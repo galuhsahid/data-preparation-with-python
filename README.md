@@ -9,12 +9,12 @@ Materi-materi yang digunakan pada DQLab Meetup #11: Data Preparation with Python
     - `world_population.csv`: [World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?view=chart)
 
 ## 📖 Daftar Isi
-Materi untuk Data Preparation with Python tersedia dalam bentuk Jupyter *notebook* (ekstensi .ipynb). Sejauh ini, materi berfokus pada penggunaan *library* [pandas](https://github.com/pandas-dev/pandas). Terdapat 3 *notebook* berbeda, yaitu:
+Materi untuk Data Preparation with Python tersedia dalam bentuk Jupyter *notebook* (ekstensi .ipynb). Sejauh ini, materi berfokus pada penggunaan *library* [pandas](https://github.com/pandas-dev/pandas). Tidak menutup kemungkinan bahwa materi-materi ini akan dikembangkan lebih lanjut lagi ke depannya. Terdapat 3 *notebook* berbeda, yaitu:
 1. Membaca, mengakses, dan mengeksplor data
 2. Memodifikasi data (menghapus, mengubah nama kolom, meng-handle *missing values*, menangani duplikasi)
 3. Mengubah bentuk data, menggabungkan data dari berbagai sumber, serta meringkas data (*groupby*, agregasi)
 
-Masing-masing *notebook* juga dilengkapi dengan beberapa latihan beserta masing-masing sollusinya.
+Masing-masing *notebook* juga dilengkapi dengan beberapa latihan beserta masing-masing solusinya.
 
 ## ⚙️ Instalasi
 ### Instalasi Python
