@@ -16,6 +16,10 @@ git clone https://github.com/galuhsahid/data-preparation-with-python.git
 
 Atau meng-klik tombol hijau bertuliskan "Clone or download" dan "Download ZIP" di bagian kanan atas halaman ini.
 
+Dalam penggunaan *notebooks* ini, diasumsikan bahwa Anda sudah cukup familiar dengan bahasa pemrograman Python. Apabila Anda merasa belum familiar dengan Python, Anda dapat mempelajari Python dengan menggunakan materi-materi pembelajaran berikut:
+- [Pengenalan Dasar Python (Bahasa Indonesia)](https://github.com/galuhsahid/pengenalan-dasar-python)
+- [Codecademy (Bahasa Inggris)](https://www.codecademy.com/learn/learn-python-3)
+
 ## 📖 Daftar Isi
 Materi untuk Data Preparation with Python tersedia dalam bentuk Jupyter *notebook* (ekstensi .ipynb). Sejauh ini, materi berfokus pada penggunaan *library* [pandas](https://github.com/pandas-dev/pandas). Tidak menutup kemungkinan bahwa materi-materi ini akan dikembangkan lebih lanjut lagi ke depannya. Terdapat 3 *notebook* berbeda, yaitu:
 1. Membaca, mengakses, dan mengeksplor data
